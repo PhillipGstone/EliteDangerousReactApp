@@ -13,7 +13,7 @@ import Factions from './pages/factions';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter id="top">
 
     <Navbar bg="dark" variant={"dark"} expand="lg">
       <Container>
