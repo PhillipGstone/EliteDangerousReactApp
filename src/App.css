@@ -63,3 +63,15 @@ p, .text {
   height:10%;
   width: 10%;
 }
+@media (orientation: portrait) {
+  .button {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height:25%;
+      width: 25%;
+  }
+}
+.button:active {
+  color: green;
+}
