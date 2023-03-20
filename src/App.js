@@ -26,9 +26,9 @@ const App = () => {
             <Nav.Link href="community">Community</Nav.Link>
             <Nav.Link href="factions">Factions</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Something 1</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Something 2</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Something 3</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.elitedangerous.com/" target="_blank">Official Website</NavDropdown.Item>
+              {/* <NavDropdown.Item href="#action/3.2">Something 2</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.3">Something 3</NavDropdown.Item> */}
               {/* <NavDropdown.Divider /> */}
               {/* <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item> */}
             </NavDropdown>
