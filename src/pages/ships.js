@@ -23,6 +23,7 @@ const Ships = () => {
 
   return (
     <>
+    <br/>
     <h1>Ships page</h1>
 
     <p class="text">Ships are the central feature of <b>Elite Dangerous</b>, and are used to traverse space and perform a variety of different tasks. There are a variety of designs to suit various roles. Many ships were inspired by the classic wireframe and polygonal models of previous Elite games. </p>

@@ -2,6 +2,7 @@ const Home = () => {
 
     return (
         <>
+        <br/>
         <h1>Elite Dangerous</h1>
         <br/>
         <p class="text">Elite Dangerous is a space flight simulation game developed and published by Frontier Developments. The player takes the role of a pilot of a spaceship, and explores a realistic 1:1 scale open-world representation of the Milky Way galaxy, with the gameplay being open-ended</p>
